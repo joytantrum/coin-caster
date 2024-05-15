@@ -9,7 +9,7 @@ export default function App() {
         alignItems: "center",
       }}
     >
-      <Text>COIN-CASTER</Text>
+      <Text>COIN CASTER</Text>
     </View>
   );
 }
